@@ -1,0 +1,21 @@
+.about{
+    height: 100vh;
+    background-color: #141414;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+.about_description{
+    position: relative;
+    top: 50px;
+    width: 500px;
+    height: 300px;
+    font-size: 1.25em;
+    padding:  100px ;
+    line-height: 30px;
+    color: #fff;
+    opacity: .85;
+    font-family: 'Myriad Pro Light';
+    
+
+}

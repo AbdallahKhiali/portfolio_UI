@@ -1,0 +1,43 @@
+.navbar{
+    height: 80px;
+    position: fixed;
+    width: 85%;
+    top: 75px;
+    left: 150px;
+    z-index: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.navbar_logo{
+    margin: 0px 25px;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.navbar_list{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+
+.navbar_item{
+    padding: 10px;
+    margin: 0px 5px;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Gosha Sans Regular';
+    font-family: 'Telegrafico';
+    cursor: pointer;
+
+}
+Link{
+    
+}
